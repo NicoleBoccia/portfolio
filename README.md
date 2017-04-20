@@ -1,8 +1,7 @@
 <h1> IASC 2P02 Portfolio</h1>
 <h3>By: Nicole Boccia</h3>
 <h2>Bio</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Virtual-Boy-Set.jpg/200px-Virtual-Boy-Set.jpg" align="right" style="width:304px;height:228px;">
-
+<iframe class="so" width="420" height="315" src="https://www.youtube.com/embed/QpcsdhYmd7M" frameborder="0"></iframe>
 A 200 word statement that answers the following questions:
 • What is your major and year?
 • What is your specific research interest/area of specialization within the digital humanities? What
