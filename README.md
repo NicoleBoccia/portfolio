@@ -2,6 +2,7 @@
 <h3>By: Nicole Boccia</h3>
 <h2>Bio</h2>
 <iframe class="so" width="420" height="315" src="https://www.youtube.com/embed/QpcsdhYmd7M" frameborder="0"></iframe>
+<p> Hello, my name is Nicole Boccia and I am in my second year at Brock University majoring in Interactive Arts and Sciences.
 A 200 word statement that answers the following questions:
 • What is your major and year?
 • What is your specific research interest/area of specialization within the digital humanities? What
