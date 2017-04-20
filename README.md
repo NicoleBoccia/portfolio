@@ -2,27 +2,15 @@
 <h3>By: Nicole Boccia</h3>
 <h2>Bio</h2>
 <iframe class="so" width="420" height="315" src="https://www.youtube.com/embed/QpcsdhYmd7M" frameborder="0"></iframe>
-<p> Hello, my name is Nicole Boccia and I am in my second year at Brock University majoring in Interactive Arts and Sciences.
-A 200 word statement that answers the following questions:
-• What is your major and year?
-• What is your specific research interest/area of specialization within the digital humanities? What
-research program would you like to undertake in the field?
-• How are your existing projects reflective of this emphasis? How have you already demonstrated
-expertise in your stated specialization?
-• Where will you take this work in the future? (Assume you will continue to do research within the digital
-humanities, even if this is not the case)
-Here is a short list of areas of specialization: critical infrastructure studies, geospatial analysis, data
-visualization, text analysis, algorithmic criticism, media archaeology, cultural studies, built media
-scholarship, and open access publishing. You are by no means restricted to this list when choosing a
-specialization
-
+<p> Hello, my name is Nicole Boccia and I am in my second year at Brock University majoring in the Interactive Arts and Sciences program. My interests of spcializations within the digital humanitites include data visualization, cultural studies, and digital expression. My existing projects such as the collaborative project, research presentation, and academic blog post all reflect these specializations. For example the Collaborative project reflects data visualization because how your website looks all depends on what data is put in the tool. The Academic Blog Post reflects cultural studies because of how and why genres evolve or go out of style over time. The Research Presentation reflects digital expression, data visualization, and cultural studies because coding controls the output of the project, and the topic of virtual reality and how it is protrayed is constantly changing.</p>
+<p>In the future I will use these projects as inspirations for other projects. For example I can come back to these projects use the coding or format, then add on or change accordinly. In the future I can also use these projects as a comparison. For example I can compare future projects to these to show how I have improved, and what tools I have used.
 <h2>Featured Project</h2>
 <h3>"Nintendo's Virtual Boy"</h3>
 <img src="https://68.media.tumblr.com/0966d483186f480841a34c40bf306c4e/tumblr_nqcbifSdFW1rz7xugo1_500.gif" onload="google.aft&amp;&amp;google.aft(this)" width="439" height="393" style="margin-top: 0px;" alt="Image result for nintendo virtual boy mad">
-<h2>Abstract</h2>
+<h3>Abstract</h3>
 • A 250 word abstract introducing the work: it’s main argument (thesis), approach or methodology,
 research findings, and significance within the field.
-<h2>Research Process</h2>
+<h3>Research Process</h3>
 • A 250 word statement describing how this research evolved over time. This statement should describe
 the revisions you made to the existing work based on instructor feedback. It should also explain how
 your understanding of the field evolved based on the work undertaken.
