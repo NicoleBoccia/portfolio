@@ -37,7 +37,7 @@ commit history in GitHub would be an excellent strategy
 <p>View</p><a href="https://nicoleboccia.github.io/presentation.github.io/">"Virtual Boy"</a>
 
 <h2>Collaborative Project</h2>
-<a href="https://nicoleboccia.github.io/collaborativeproject/"></a>
+<a href="https://nicoleboccia.github.io/collaborativeproject/">"Scalar"</a>
 
 <h2>Research Presentation</h2>
 <a href="https://nicoleboccia.github.io/presentation.github.io/">"Virtual Boy"</a> 
