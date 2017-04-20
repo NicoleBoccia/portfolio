@@ -1,6 +1,8 @@
 <h1> IASC 2P02 Portfolio</h1>
 <h3>By: Nicole Boccia</h3>
 <h2>Bio</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Virtual-Boy-Set.jpg/200px-Virtual-Boy-Set.jpg" align="right" style="width:304px;height:228px;">
+
 A 200 word statement that answers the following questions:
 • What is your major and year?
 • What is your specific research interest/area of specialization within the digital humanities? What
@@ -16,13 +18,11 @@ specialization
 
 <h2>Featured Project</h2>
 <h3>"Nintendo's Virtual Boy"</h3>
-Choose one of your two most recent projects (research presentation or academic blog) and revise it
-based on instructor feedback. Under the featured project heading on the homepage, you should include
-the following elements:
-• At least one visually attractive image to headline the section
-• The title of your project
+<img src="https://68.media.tumblr.com/0966d483186f480841a34c40bf306c4e/tumblr_nqcbifSdFW1rz7xugo1_500.gif" onload="google.aft&amp;&amp;google.aft(this)" width="439" height="393" style="margin-top: 0px;" alt="Image result for nintendo virtual boy mad">
+<h2>Abstract</h2>
 • A 250 word abstract introducing the work: it’s main argument (thesis), approach or methodology,
 research findings, and significance within the field.
+<h2>Research Process</h2>
 • A 250 word statement describing how this research evolved over time. This statement should describe
 the revisions you made to the existing work based on instructor feedback. It should also explain how
 your understanding of the field evolved based on the work undertaken.
