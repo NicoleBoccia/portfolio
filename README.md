@@ -34,6 +34,8 @@ consult with me during our final class.
 *** Revisions should be substantial and meaningful. Referencing your revisions by pointing to your
 commit history in GitHub would be an excellent strategy
 
+<p>View</p><a href="https://nicoleboccia.github.io/presentation.githu">"Virtual Boy"</a>
+
 <h2>Collaborative Project</h2>
 <a href="https://nicoleboccia.github.io/collaborativeproject/"></a>
 
