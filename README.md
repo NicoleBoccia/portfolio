@@ -36,6 +36,7 @@ consult with me during our final class.
 commit history in GitHub would be an excellent strategy
 
 <h2>Collaborative Project</h2>
+<a href="https://nicoleboccia.github.io/collaborativeproject/"></a>
 
 <h2>Research Presentation</h2>
 <a href="https://nicoleboccia.github.io/presentation.githu">"Virtual Boy"</a> 
