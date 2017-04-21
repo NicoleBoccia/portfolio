@@ -8,11 +8,14 @@
 <h2>Featured Project</h2>
 <h3>"Nintendo's Virtual Boy"</h3>
 <img src="https://68.media.tumblr.com/0966d483186f480841a34c40bf306c4e/tumblr_nqcbifSdFW1rz7xugo1_500.gif" onload="google.aft&amp;&amp;google.aft(this)" width="439" height="393" style="margin-top: 0px;" alt="Image result for nintendo virtual boy mad">
-
 <h3>Abstract</h3>
 <p>This is a project about Nintendo's Virtual Boy. It talks about the product, virtual reality, and how they have changed over time. This projects main arguement is that the Nintendo Boy failed because it was too ahead of its time. There was not enough money to make it, or the right technology out to fully show the concept of virtual reality. From it's failure Nintendo decided not to release any more headsets and the next closest thing to 3D was the 3Ds and was a huge sucess. Another main arguement from this project is that virtual reality can be used for more than just games. It can be used for simulations, training, safety, health, and much more. Virtual reality is significant in the field of the digital humanitites because it was a futuristic concept brought to life by a variety of tools. This technology is being used in more ways then it was intended for, and new ways of use are always being found. Looking back at products like Virtual Boy gives an unusual feeling because they look cheesy, cheap, and have terrible graphics, yet this is how it started. The Virtual Boy was just a cheap headset with red leds costing $180 or more, and a limited amount of games. Now we have products like the Oculus Rift that can be used as a comparison of how graphics, quality, technology, and avaliability have changed. The concept of virtual reality makes more sense now that it can actually be shown.
+</p>
 
 <h3>Research Process</h3>
+
+<p>This research evolved over time by including a project, and concepts that inspired Virtual Reality. The feedback for the project was, "Great slides!More engaged media archaeological work would take this up a notch". I tried to achieve this by adding in some facts as to when the concept of virtual reality started, but was not reffered to as VR.
+
 • A 250 word statement describing how this research evolved over time. This statement should describe
 the revisions you made to the existing work based on instructor feedback. It should also explain how
 your understanding of the field evolved based on the work undertaken.
