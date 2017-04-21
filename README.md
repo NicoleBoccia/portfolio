@@ -14,20 +14,8 @@
 
 <h3>Research Process</h3>
 
-<p>This research evolved over time by including a project, and concepts that inspired Virtual Reality. The feedback for the project was, "Great slides!More engaged media archaeological work would take this up a notch". I tried to achieve this by adding in some facts as to when the concept of virtual reality started, but was not reffered to as VR.
-
-• A 250 word statement describing how this research evolved over time. This statement should describe
-the revisions you made to the existing work based on instructor feedback. It should also explain how
-your understanding of the field evolved based on the work undertaken.
-• A link to the project, which is now updated in the manner you’ve described (this will be one of the same
-links used for your three projects below).
-* If you wish to revise your collaborative project for the featured project, you will need instructor
-permission to do so.
-** If you wish to revise the research presentation and would like additional instructor feedback, you may
-consult with me during our final class.
-*** Revisions should be substantial and meaningful. Referencing your revisions by pointing to your
-commit history in GitHub would be an excellent strategy
-
+<p>This research evolved over time by including a project, and concepts that inspired Virtual Reality. The feedback for the project was, "Great slides!More engaged media archaeological work would take this up a notch". I tried to achieve this by adding in some facts as to when the concept of virtual reality started, but was it not reffered to as VR. I added two slides/sections to my GitHub page that included facts such as when the concept of VR first started. The concept is said to be traced back to the 1860's. One of the first concepts of VR was reffered to as Simulation, putting yourself in a situation and manipulating your way around. The example I used was an early flight simulation device developed in the 1920's by Edwin Link. It was a training device for new pilots. I also modified the other slides to lead into one another and edited the conclusion to include the new research. With the new research, and modifications my understanding of VR has expanded. Before modifying this project I thought the concept of VR was fairly new and started around 1960's. When I found out about the flight simulator it completely changed my perspective because I thought this concept was based around televsion, the idea of emerging yourself in something fiction or non-fiction.
+</p>
 <p>View</p><a href="https://nicoleboccia.github.io/presentation.github.io/">"Virtual Boy"</a>
 
 <h2>Collaborative Project</h2>
